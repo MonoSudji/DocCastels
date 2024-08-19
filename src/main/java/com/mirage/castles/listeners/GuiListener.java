@@ -78,7 +78,7 @@ public class GuiListener implements Listener {
                     case "Воин":
                         playerClass = new Warrior();
                         break;
-                    case "Ма��":
+                    case "Маг":
                         playerClass = new Mage();
                         break;
                     case "Лучник":
