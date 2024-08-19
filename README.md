@@ -12,7 +12,7 @@
 - **Medieval Weapons and Armor:** Equip yourself with new weapons and armor sets inspired by medieval times.
 - **Siege Mechanics:** Engage in epic castle sieges with special mechanics and strategies.
 - **Resource Management:** Manage resources like never before with new blocks and items tailored for castle building and defense.
-- **Quests and Challenges:** Take on quests and challenges related to castles and medieval lore.
+
 
 ## Customization
 
